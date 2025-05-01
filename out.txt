@@ -1,0 +1,2 @@
+pygame-ce 2.5.3 (SDL 2.30.12, Python 3.12.8)
+Score: 0
